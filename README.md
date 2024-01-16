@@ -1,6 +1,6 @@
 
 ![MasterHead](https://user-images.githubusercontent.com/86270481/214122618-1bf43327-cdef-456e-81fe-fc71a9070c07.gif)
-<img src="https://media4.giphy.com/media/5quAQha5cHPayUytEh/giphy.gif?cid=ecf05e47r14alvgfsgo8kivp41tviyd7l799g22f9mwb9f20&ep=v1_stickers_search&rid=giphy.gif&ct=s" style="width: 60px; height: 60px;"><h1 align="center">👋 Hello, I'm Kyaw Mg Mg Thu </h1> 
+<h1 align="center">👋 Hello, I'm Kyaw Mg Mg Thu </h1> 
 =====================================================================================================================================
 
 Web Developer
