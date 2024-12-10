@@ -59,5 +59,11 @@
 ###
 
 <h3 align="left">🔥   My Stats :</h3>
+<a href="http://www.github.com/kyawmgmgthu"><img src="https://github-readme-stats.vercel.app/api?username=kyawmgmgthu&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=facc15&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="KyawMgMgThu's GitHub stats" /></a>
 
+<a href="http://www.github.com/kyawmgmgthu"><img src="https://github-readme-streak-stats.herokuapp.com/?user=kyawmgmgthu&stroke=facc15&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=facc15&currStreakLabel=0891b2&sideNums=facc15&sideLabels=facc15&dates=facc15&hide_border=true" /></a>
+
+
+
+<a href="https://github.com/kyawmgmgthu" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyawmgmgthu&langs_count=10&title_color=0891b2&text_color=facc15&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 ###
